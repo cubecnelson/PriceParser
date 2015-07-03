@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="/home/nelson/Downloads/jsoup-1.8.2.jar"/>
+	<classpathentry kind="lib" path="/home/nelson/commons-io-2.4/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="/home/nelson/httpcomponents-client-4.5/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="/home/nelson/httpcomponents-client-4.5/lib/fluent-hc-4.5.jar"/>
+	<classpathentry kind="lib" path="/home/nelson/httpcomponents-client-4.5/lib/httpclient-4.5.jar"/>
+	<classpathentry kind="lib" path="/home/nelson/httpcomponents-client-4.5/lib/commons-codec-1.9.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
